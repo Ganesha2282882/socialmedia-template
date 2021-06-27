@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body {
+    font-family: Arvo;
+    background-color: #333333;
+    color: white;
+}
+
+a {
+    color: lightgray;
+}
+
+input {
+    background-color: gray;
+    color: white;
+    border-radius: 8px;
+    border: 2px solid;
+}
